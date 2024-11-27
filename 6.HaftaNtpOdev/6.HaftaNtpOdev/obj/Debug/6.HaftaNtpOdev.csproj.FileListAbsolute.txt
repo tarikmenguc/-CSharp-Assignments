@@ -1,0 +1,7 @@
+C:\Users\M.Tarık MENGÜÇ\source\repos\6.HaftaNtpOdev\6.HaftaNtpOdev\bin\Debug\6.HaftaNtpOdev.exe.config
+C:\Users\M.Tarık MENGÜÇ\source\repos\6.HaftaNtpOdev\6.HaftaNtpOdev\bin\Debug\6.HaftaNtpOdev.exe
+C:\Users\M.Tarık MENGÜÇ\source\repos\6.HaftaNtpOdev\6.HaftaNtpOdev\bin\Debug\6.HaftaNtpOdev.pdb
+C:\Users\M.Tarık MENGÜÇ\source\repos\6.HaftaNtpOdev\6.HaftaNtpOdev\obj\Debug\6.HaftaNtpOdev.csproj.AssemblyReference.cache
+C:\Users\M.Tarık MENGÜÇ\source\repos\6.HaftaNtpOdev\6.HaftaNtpOdev\obj\Debug\6.HaftaNtpOdev.csproj.CoreCompileInputs.cache
+C:\Users\M.Tarık MENGÜÇ\source\repos\6.HaftaNtpOdev\6.HaftaNtpOdev\obj\Debug\6.HaftaNtpOdev.exe
+C:\Users\M.Tarık MENGÜÇ\source\repos\6.HaftaNtpOdev\6.HaftaNtpOdev\obj\Debug\6.HaftaNtpOdev.pdb
